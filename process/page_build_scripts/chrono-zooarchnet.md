@@ -1,8 +1,10 @@
-# Darwin Core Chronometric Age Extension Vocabulary
+# ZooArchNet Chronometric Age Vocabulary
 
 **Title:**  ZooArchNet Chronometric Age Vocabulary
 
 **Namespace URI:** http://zooarchnet.org/dwc/terms/
+
+**Preferred namespace abbreviation:** zooarchnet:
 
 **Date version issued:** 2020-09-14
 
@@ -10,18 +12,20 @@
 
 **Part of TDWG Standard:** Not part of any standard
 
-**Abstract:** someting here
+**Abstract:** The Chronometric Age vocabulary was designed for transmitting information about chronometric ages and the techniques used to determine them. This document lists all terms in the now antiquated zooarchnet: namespace and is for historical purposes.
 
-**Contributors:** John Wieczorek, Laura Brenskelle, Robert Guralnick, Kitty Emery, Michelle LeFebvre, Denné Reed
+**Contributors:** John Wieczorek, Laura Brenskelle, Robert Guralnick, Kitty Emery, Michelle LeFebvre
 
 **Creator:** ZooArchNet
 
-**Bibliographic citation:** something
+**Bibliographic citation:** ZooArchNet. 2018. ZooArchNet Chronometric Age Vocabulary. <http://rs.tdwg.org/chrono/doc/list/iso-date-here>
 
 
 ## 1 Introduction
 
-something here
+This document contains all versions of terms used in the history of the ZooArchNet version of the Chronometric Age Vocabulary. The vocabulary uses the namespace abbreviation `zooarchnet:`. All terms are deprecated and should no longer be used.
+
+For a list that contains only the currently recommended terms in the chrono: namespace, see http://rs.tdwg.org/chrono/doc/list/.
 
 ### 1.1 Status of the content of this document
 
@@ -32,48 +36,48 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## 2 Use of Terms
 
-something here
+The terms in this document are meant to provide a record of definitions of terms leading up to the current Chronometric Age Vocabulary standard (http://www.tdwg.org/standards/x).
 
 ## 3 Term index
 
 
-[Age Uncertainty](#[none]_ageUncertainty) |
-[Age Uncertainty In Years](#[none]_ageUncertaintyInYears) |
-[Age Uncertainty Method](#[none]_ageUncertaintyMethod) |
-[Chronomatric Age](#[none]_ChronometricAge) |
-[Chronometric Age ID](#[none]_chronometricAgeID) |
-[Chronometric Age Protocol](#[none]_chronometricAgeProtocol) |
-[Chronometric Age References](#[none]_chronometricAgeReferences) |
-[Chronometric Age Remarks](#[none]_chronometricAgeRemarks) |
-[Chronometric Age Uncertainty In Years](#[none]_chronometricAgeUncertaintyInYears) |
-[Chronometric Age Uncertainty Method](#[none]_chronometricAgeUncertaintyMethod) |
-[Chronometric Date](#[none]_ChronometricDate) |
-[Chronometric Date ID](#[none]_chronometricDateID) |
-[Chronometric Date Protocol](#[none]_chronometricDateProtocol) |
-[Chronometric Date References](#[none]_chronometricDateReferences) |
-[Chronometric Date Remarks](#[none]_chronometricDateRemarks) |
-[Material Dated](#[none]_materialDated) |
-[Material Dated ID](#[none]_materialDatedID) |
-[Maximum Age](#[none]_maximumAge) |
-[Maximum Age Reference System](#[none]_maximumAgeReferenceSystem) |
-[Maximum Age Units](#[none]_maximumAgeUnits) |
-[Maximum Chronometric Age](#[none]_maximumChronometricAge) |
-[Maximum Chronometric Age ReferenceSystem](#[none]_maximumChronometricAgeReferenceSystem) |
-[Minimum Age](#[none]_minimumAge) |
-[Minimum Age Reference System](#[none]_minimumAgeReferenceSystem) |
-[Minimum Age Units](#[none]_minimumAgeUnits) |
-[Minimum Chronometric Age](#[none]_minimumChronometricAge) |
-[Minimum Chronometric Age Reference System](#[none]_minimumChronometricAgeReferenceSystem) |
-[Reported Age](#[none]_reportedAge) |
-[Reported Age Conversion Protocol](#[none]_reportedAgeConversionProtocol) |
-[Verbatim Chronometric Age](#[none]_verbatimChronometricAge) |
-[Verbatim Chronometric Age Conversion Protocol](#[none]_verbatimChronometricAgeConversionProtocol) 
+[Age Uncertainty](#zooarchnet_ageUncertainty) |
+[Age Uncertainty In Years](#zooarchnet_ageUncertaintyInYears) |
+[Age Uncertainty Method](#zooarchnet_ageUncertaintyMethod) |
+[Chronomatric Age](#zooarchnet_ChronometricAge) |
+[Chronometric Age ID](#zooarchnet_chronometricAgeID) |
+[Chronometric Age Protocol](#zooarchnet_chronometricAgeProtocol) |
+[Chronometric Age References](#zooarchnet_chronometricAgeReferences) |
+[Chronometric Age Remarks](#zooarchnet_chronometricAgeRemarks) |
+[Chronometric Age Uncertainty In Years](#zooarchnet_chronometricAgeUncertaintyInYears) |
+[Chronometric Age Uncertainty Method](#zooarchnet_chronometricAgeUncertaintyMethod) |
+[Chronometric Date](#zooarchnet_ChronometricDate) |
+[Chronometric Date ID](#zooarchnet_chronometricDateID) |
+[Chronometric Date Protocol](#zooarchnet_chronometricDateProtocol) |
+[Chronometric Date References](#zooarchnet_chronometricDateReferences) |
+[Chronometric Date Remarks](#zooarchnet_chronometricDateRemarks) |
+[Material Dated](#zooarchnet_materialDated) |
+[Material Dated ID](#zooarchnet_materialDatedID) |
+[Maximum Age](#zooarchnet_maximumAge) |
+[Maximum Age Reference System](#zooarchnet_maximumAgeReferenceSystem) |
+[Maximum Age Units](#zooarchnet_maximumAgeUnits) |
+[Maximum Chronometric Age](#zooarchnet_maximumChronometricAge) |
+[Maximum Chronometric Age ReferenceSystem](#zooarchnet_maximumChronometricAgeReferenceSystem) |
+[Minimum Age](#zooarchnet_minimumAge) |
+[Minimum Age Reference System](#zooarchnet_minimumAgeReferenceSystem) |
+[Minimum Age Units](#zooarchnet_minimumAgeUnits) |
+[Minimum Chronometric Age](#zooarchnet_minimumChronometricAge) |
+[Minimum Chronometric Age Reference System](#zooarchnet_minimumChronometricAgeReferenceSystem) |
+[Reported Age](#zooarchnet_reportedAge) |
+[Reported Age Conversion Protocol](#zooarchnet_reportedAgeConversionProtocol) |
+[Verbatim Chronometric Age](#zooarchnet_verbatimChronometricAge) |
+[Verbatim Chronometric Age Conversion Protocol](#zooarchnet_verbatimChronometricAgeConversionProtocol) 
 
 ## 4 Vocabulary
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_ChronometricAge"></a>Term Name  [none]:ChronometricAge</th>
+			<th colspan="2"><a id="zooarchnet_ChronometricAge"></a>Term Name  zooarchnet:ChronometricAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -107,7 +111,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_ChronometricDate"></a>Term Name  [none]:ChronometricDate</th>
+			<th colspan="2"><a id="zooarchnet_ChronometricDate"></a>Term Name  zooarchnet:ChronometricDate</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -141,7 +145,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_ageUncertainty"></a>Term Name  [none]:ageUncertainty</th>
+			<th colspan="2"><a id="zooarchnet_ageUncertainty"></a>Term Name  zooarchnet:ageUncertainty</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -175,7 +179,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_ageUncertaintyInYears"></a>Term Name  [none]:ageUncertaintyInYears</th>
+			<th colspan="2"><a id="zooarchnet_ageUncertaintyInYears"></a>Term Name  zooarchnet:ageUncertaintyInYears</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -209,7 +213,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_ageUncertaintyMethod"></a>Term Name  [none]:ageUncertaintyMethod</th>
+			<th colspan="2"><a id="zooarchnet_ageUncertaintyMethod"></a>Term Name  zooarchnet:ageUncertaintyMethod</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -243,7 +247,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricAgeID"></a>Term Name  [none]:chronometricAgeID</th>
+			<th colspan="2"><a id="zooarchnet_chronometricAgeID"></a>Term Name  zooarchnet:chronometricAgeID</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -277,7 +281,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricAgeProtocol"></a>Term Name  [none]:chronometricAgeProtocol</th>
+			<th colspan="2"><a id="zooarchnet_chronometricAgeProtocol"></a>Term Name  zooarchnet:chronometricAgeProtocol</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -311,7 +315,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricAgeReferences"></a>Term Name  [none]:chronometricAgeReferences</th>
+			<th colspan="2"><a id="zooarchnet_chronometricAgeReferences"></a>Term Name  zooarchnet:chronometricAgeReferences</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -345,7 +349,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricAgeRemarks"></a>Term Name  [none]:chronometricAgeRemarks</th>
+			<th colspan="2"><a id="zooarchnet_chronometricAgeRemarks"></a>Term Name  zooarchnet:chronometricAgeRemarks</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -379,7 +383,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricAgeUncertaintyInYears"></a>Term Name  [none]:chronometricAgeUncertaintyInYears</th>
+			<th colspan="2"><a id="zooarchnet_chronometricAgeUncertaintyInYears"></a>Term Name  zooarchnet:chronometricAgeUncertaintyInYears</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -417,7 +421,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricAgeUncertaintyMethod"></a>Term Name  [none]:chronometricAgeUncertaintyMethod</th>
+			<th colspan="2"><a id="zooarchnet_chronometricAgeUncertaintyMethod"></a>Term Name  zooarchnet:chronometricAgeUncertaintyMethod</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -451,7 +455,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricDateID"></a>Term Name  [none]:chronometricDateID</th>
+			<th colspan="2"><a id="zooarchnet_chronometricDateID"></a>Term Name  zooarchnet:chronometricDateID</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -489,7 +493,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricDateProtocol"></a>Term Name  [none]:chronometricDateProtocol</th>
+			<th colspan="2"><a id="zooarchnet_chronometricDateProtocol"></a>Term Name  zooarchnet:chronometricDateProtocol</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -523,7 +527,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricDateReferences"></a>Term Name  [none]:chronometricDateReferences</th>
+			<th colspan="2"><a id="zooarchnet_chronometricDateReferences"></a>Term Name  zooarchnet:chronometricDateReferences</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -557,7 +561,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_chronometricDateRemarks"></a>Term Name  [none]:chronometricDateRemarks</th>
+			<th colspan="2"><a id="zooarchnet_chronometricDateRemarks"></a>Term Name  zooarchnet:chronometricDateRemarks</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -591,7 +595,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_materialDated"></a>Term Name  [none]:materialDated</th>
+			<th colspan="2"><a id="zooarchnet_materialDated"></a>Term Name  zooarchnet:materialDated</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -625,7 +629,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_materialDatedID"></a>Term Name  [none]:materialDatedID</th>
+			<th colspan="2"><a id="zooarchnet_materialDatedID"></a>Term Name  zooarchnet:materialDatedID</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -659,7 +663,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_maximumAge"></a>Term Name  [none]:maximumAge</th>
+			<th colspan="2"><a id="zooarchnet_maximumAge"></a>Term Name  zooarchnet:maximumAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -693,7 +697,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_maximumAgeReferenceSystem"></a>Term Name  [none]:maximumAgeReferenceSystem</th>
+			<th colspan="2"><a id="zooarchnet_maximumAgeReferenceSystem"></a>Term Name  zooarchnet:maximumAgeReferenceSystem</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -727,7 +731,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_maximumAgeUnits"></a>Term Name  [none]:maximumAgeUnits</th>
+			<th colspan="2"><a id="zooarchnet_maximumAgeUnits"></a>Term Name  zooarchnet:maximumAgeUnits</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -761,7 +765,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_maximumChronometricAge"></a>Term Name  [none]:maximumChronometricAge</th>
+			<th colspan="2"><a id="zooarchnet_maximumChronometricAge"></a>Term Name  zooarchnet:maximumChronometricAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -799,7 +803,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_maximumChronometricAgeReferenceSystem"></a>Term Name  [none]:maximumChronometricAgeReferenceSystem</th>
+			<th colspan="2"><a id="zooarchnet_maximumChronometricAgeReferenceSystem"></a>Term Name  zooarchnet:maximumChronometricAgeReferenceSystem</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -837,7 +841,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_minimumAge"></a>Term Name  [none]:minimumAge</th>
+			<th colspan="2"><a id="zooarchnet_minimumAge"></a>Term Name  zooarchnet:minimumAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -871,7 +875,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_minimumAgeReferenceSystem"></a>Term Name  [none]:minimumAgeReferenceSystem</th>
+			<th colspan="2"><a id="zooarchnet_minimumAgeReferenceSystem"></a>Term Name  zooarchnet:minimumAgeReferenceSystem</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -905,7 +909,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_minimumAgeUnits"></a>Term Name  [none]:minimumAgeUnits</th>
+			<th colspan="2"><a id="zooarchnet_minimumAgeUnits"></a>Term Name  zooarchnet:minimumAgeUnits</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -939,7 +943,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_minimumChronometricAge"></a>Term Name  [none]:minimumChronometricAge</th>
+			<th colspan="2"><a id="zooarchnet_minimumChronometricAge"></a>Term Name  zooarchnet:minimumChronometricAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -977,7 +981,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_minimumChronometricAgeReferenceSystem"></a>Term Name  [none]:minimumChronometricAgeReferenceSystem</th>
+			<th colspan="2"><a id="zooarchnet_minimumChronometricAgeReferenceSystem"></a>Term Name  zooarchnet:minimumChronometricAgeReferenceSystem</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -1015,7 +1019,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_reportedAge"></a>Term Name  [none]:reportedAge</th>
+			<th colspan="2"><a id="zooarchnet_reportedAge"></a>Term Name  zooarchnet:reportedAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -1049,7 +1053,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_reportedAgeConversionProtocol"></a>Term Name  [none]:reportedAgeConversionProtocol</th>
+			<th colspan="2"><a id="zooarchnet_reportedAgeConversionProtocol"></a>Term Name  zooarchnet:reportedAgeConversionProtocol</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -1083,7 +1087,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_verbatimChronometricAge"></a>Term Name  [none]:verbatimChronometricAge</th>
+			<th colspan="2"><a id="zooarchnet_verbatimChronometricAge"></a>Term Name  zooarchnet:verbatimChronometricAge</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -1121,7 +1125,7 @@ something here
 <table>
 	<thead>
 		<tr>
-			<th colspan="2"><a id="[none]_verbatimChronometricAgeConversionProtocol"></a>Term Name  [none]:verbatimChronometricAgeConversionProtocol</th>
+			<th colspan="2"><a id="zooarchnet_verbatimChronometricAgeConversionProtocol"></a>Term Name  zooarchnet:verbatimChronometricAgeConversionProtocol</th>
 		</tr>
 	</thead>
 	<tbody>
