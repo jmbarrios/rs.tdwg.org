@@ -1,14 +1,14 @@
-# Darwin Core Chronometric Age Extension Vocabulary
+# Chronometric Age Vocabulary
 
-**Title:**  Darwin Core Chronometric Age Extension Vocabulary
+**Title:**  Chronometric Age Vocabulary
 
 **Namespace URI:** http://rs.tdwg.org/chrono/terms/
 
 **Preferred namespace abbreviation:** chrono:
 
-**Date version issued:** put ratification date here
+**Date version issued:** 2020-MM-DD - put ratification date here
 
-**Date created:** put ratification date here
+**Date created:** 2020-MM-DD - put ratification date here
 
 **Part of TDWG Standard:** http://www.tdwg.org/standards/x
 
@@ -16,18 +16,20 @@
 
 **Latest version:** http://rs.tdwg.org/chrono/doc/list/
 
-**Abstract:** someting here
+**Abstract:** The Chronometric Age Vocabulary is standard for transmitting information about chronometric ages and the techniques used to determine them. This document lists all terms in namespaces currently used in the vocabulary.
 
-**Contributors:** John Wieczorek, Laura Brenskelle, Robert Guralnick, Kitty Emery, Michelle LeFebvre, Denné Reed
+**Contributors:** John Wieczorek, Laura Brenskelle, Robert Guralnick, Kitty Emery, Michelle LeFebvre, Neill Wallis, Steve Baskauf, Marie Elise Lecoq, Eric Kansa, Sarah Kansa, Denné Reed
 
 **Creator:** TDWG Darwin Core Chronometric Age Extension Task Group
 
-**Bibliographic citation:** TDWG Darwin Core Chronometric Age Extension Task Group. 2020. Darwin Core Chronometric Age Extension Vocabulary. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/chrono/doc/list/iso-date-here>
+**Bibliographic citation:** TDWG Darwin Core Chronometric Age Extension Task Group. 2020. Chronometric Age Vocabulary. Biodiversity Information Standards (TDWG). <http://rs.tdwg.org/chrono/doc/list/iso-date-here>
 
 
 ## 1 Introduction
 
-something here
+This document contains all versions of terms used in the history of the making of this most recent version of the Chronometric Age vocabulary (http://rs.tdwg.org/version/chrono/2020-MM-DD). The vocabulary uses the namespace abbreviation `chrono:`. Some terms are deprecated and should no longer be used, and some terms have been superseded with updated versions that better represent community understanding of the definitions and usage. Deprecation and supersession are noted in the term metadata. Some terms use a namespace (http://zooarchnet.org/dwc/terms/version/) that predates the standard. Metadata about those terms should not be expected to be retrievable by dereferencing their IRIs.
+
+For a simplified list that contains only the currently recommended terms, see the Chronometric Age Quick Reference Guide (https://chrono.tdwg.org/terms/).
 
 ### 1.1 Status of the content of this document
 
@@ -38,6 +40,6 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## 2 Use of Terms
 
-something here
+The terms in this standard are meant to provide stable definitions that can be used in a variety of contexts, but were envisioned principally to function together as an extension to Darwin Core, where each core record may be annotated by one or more chronometric ages.
 
 ## 3 Term index
