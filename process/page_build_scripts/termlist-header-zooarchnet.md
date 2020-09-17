@@ -4,6 +4,8 @@
 
 **Namespace URI:** http://zooarchnet.org/dwc/terms/
 
+**Preferred namespace abbreviation:** zooarchnet:
+
 **Date version issued:** 2020-09-14
 
 **Date created:** 2020-09-14
