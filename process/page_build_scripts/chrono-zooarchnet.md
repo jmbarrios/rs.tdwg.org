@@ -103,6 +103,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_ChronometricAge">http://rs.tdwg.org/chrono/terms/ChronometricAge</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The age of a specimen or related materials that is generated from a dating assay.</td>
 		</tr>
@@ -135,6 +139,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_ChronometricAge">http://zooarchnet.org/dwc/terms/ChronometricAge</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -171,6 +179,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_ageUncertaintyInYears">http://zooarchnet.org/dwc/terms/ageUncertaintyInYears</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The assessed temporal uncertainty in the maximum or minimum age estimates, or overall uncertainty for both.</td>
 		</tr>
@@ -203,6 +215,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_chronometricAgeUncertaintyInYears">http://zooarchnet.org/dwc/terms/chronometricAgeUncertaintyInYears</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -239,6 +255,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_chronometricAgeUncertaintyMethod">http://zooarchnet.org/dwc/terms/chronometricAgeUncertaintyMethod</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The method used to generate reported uncertainty calculations.</td>
 		</tr>
@@ -271,6 +291,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeID">http://rs.tdwg.org/chrono/terms/chronometricAgeID</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -307,6 +331,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeProtocol">http://rs.tdwg.org/chrono/terms/chronometricAgeProtocol</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>A description of or reference to the methods used to determine the ChronometricAge.</td>
 		</tr>
@@ -339,6 +367,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeReferences">http://rs.tdwg.org/chrono/terms/chronometricAgeReferences</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -375,6 +407,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeRemarks">http://rs.tdwg.org/chrono/terms/chronometricAgeRemarks</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>Notes or comments about the ChronometricAge.</td>
 		</tr>
@@ -407,6 +443,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeUncertaintyInYears">http://rs.tdwg.org/chrono/terms/chronometricAgeUncertaintyInYears</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -447,6 +487,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeUncertaintyMethod">http://rs.tdwg.org/chrono/terms/chronometricAgeUncertaintyMethod</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The method used to generate the reported uncertainty calculations.</td>
 		</tr>
@@ -479,6 +523,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_chronometricAgeID">http://zooarchnet.org/dwc/terms/chronometricAgeID</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -519,6 +567,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_chronometricAgeProtocol">http://zooarchnet.org/dwc/terms/chronometricAgeProtocol</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>A description or reference to the methods used to determine the ChronometricDate.</td>
 		</tr>
@@ -551,6 +603,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_chronometricAgeReferences">http://zooarchnet.org/dwc/terms/chronometricAgeReferences</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -587,6 +643,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_chronometricAgeRemarks">http://zooarchnet.org/dwc/terms/chronometricAgeRemarks</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>Notes or comments about the ChronometricDate.</td>
 		</tr>
@@ -619,6 +679,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_materialDated">http://rs.tdwg.org/chrono/terms/materialDated</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -655,6 +719,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_materialDatedID">http://rs.tdwg.org/chrono/terms/materialDatedID</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>An identifier for the material on which the chronometricAgeProtocol was performed, if applicable.</td>
 		</tr>
@@ -687,6 +755,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_maximumChronometricAge">http://zooarchnet.org/dwc/terms/maximumChronometricAge</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -723,6 +795,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_maximumChronometricAgeReferenceSystem">http://zooarchnet.org/dwc/terms/maximumChronometricAgeReferenceSystem</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The reference system associated with the maximumAge. For example, BC.</td>
 		</tr>
@@ -757,6 +833,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_maximumAgeReferenceSystem">http://zooarchnet.org/dwc/terms/maximumAgeReferenceSystem</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The units associated with the maximumAge.</td>
 		</tr>
@@ -789,6 +869,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_maximumChronometricAge">http://rs.tdwg.org/chrono/terms/maximumChronometricAge</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -829,6 +913,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_maximumChronometricAgeReferenceSystem">http://rs.tdwg.org/chrono/terms/maximumChronometricAgeReferenceSystem</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The reference system associated with the maximumChronometricAge.</td>
 		</tr>
@@ -867,6 +955,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_minimumChronometricAge">http://zooarchnet.org/dwc/terms/minimumChronometricAge</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>Lower limit for the age of a specimen as determined by a dating method.</td>
 		</tr>
@@ -899,6 +991,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_minimumChronometricAgeReferenceSystem">http://zooarchnet.org/dwc/terms/minimumChronometricAgeReferenceSystem</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -935,6 +1031,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_minimumAgeReferenceSystem">http://zooarchnet.org/dwc/terms/minimumAgeReferenceSystem</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The units associated with the minimumAge.</td>
 		</tr>
@@ -967,6 +1067,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_minimumChronometricAge">http://rs.tdwg.org/chrono/terms/minimumChronometricAge</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -1007,6 +1111,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_minimumChronometricAgeReferenceSystem">http://rs.tdwg.org/chrono/terms/minimumChronometricAgeReferenceSystem</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The reference system associated with the minimumChronometricAge.</td>
 		</tr>
@@ -1045,6 +1153,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_verbatimChronometricAge">http://zooarchnet.org/dwc/terms/verbatimChronometricAge</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The unconverted output of a dating protocol. For example, the conventional radiocarbon age.</td>
 		</tr>
@@ -1079,6 +1191,10 @@ The terms in this document are meant to provide a historical record of definitio
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
 		</tr>
 		<tr>
+			<td>Is replaced by</td>
+			<td><a href="#zooarchnet_verbatimChronometricAgeConversionProtocol">http://zooarchnet.org/dwc/terms/verbatimChronometricAgeConversionProtocol</a></td>
+		</tr>
+		<tr>
 			<td>Definition</td>
 			<td>The method used for converting the reportedAge into a chronometric date, as captured in the maximumAge, maximumAgeUnits, minimumAge, and minimumAgeUnits fields. For example, calibration of conventional radiocarbon age.</td>
 		</tr>
@@ -1111,6 +1227,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_verbatimChronometricAge">http://rs.tdwg.org/chrono/terms/verbatimChronometricAge</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
@@ -1149,6 +1269,10 @@ The terms in this document are meant to provide a historical record of definitio
 		<tr>
 			<td></td>
 			<td><strong>This term is deprecated and should no longer be used.</strong></td>
+		</tr>
+		<tr>
+			<td>Is replaced by</td>
+			<td><a href="http://rs.tdwg.org/chrono/doc/list/#chrono_chronometricAgeConversionProtocol">http://rs.tdwg.org/chrono/terms/chronometricAgeConversionProtocol</a></td>
 		</tr>
 		<tr>
 			<td>Definition</td>
