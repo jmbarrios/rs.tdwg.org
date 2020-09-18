@@ -16,6 +16,8 @@
 
 **Latest version:** http://rs.tdwg.org/chrono/doc/list/
 
+**Previous version:** http://rs.tdwg.org/chrono/doc/list/2020-09-14
+
 **Abstract:** The Chronometric Age Vocabulary is standard for transmitting information about chronometric ages and the techniques used to determine them. This document lists all terms in namespaces currently used in the vocabulary.
 
 **Contributors:** John Wieczorek, Laura Brenskelle, Robert Guralnick, Kitty Emery, Michelle LeFebvre, Neill Wallis, Steve Baskauf, Marie Elise Lecoq, Eric Kansa, Sarah Kansa, Denné Reed
@@ -27,7 +29,7 @@
 
 ## 1 Introduction
 
-This document contains all versions of terms used in the history of the making of this most recent version of the Chronometric Age vocabulary (http://rs.tdwg.org/version/chrono/2020-MM-DD). The vocabulary uses the namespace abbreviation `chrono:`. Some terms are deprecated and should no longer be used, and some terms have been superseded with updated versions that better represent community understanding of the definitions and usage. Deprecation and supersession are noted in the term metadata. Some terms use a namespace (http://zooarchnet.org/dwc/terms/version/) that predates the standard. Metadata about those terms should not be expected to be retrievable by dereferencing their IRIs.
+This document contains all versions of terms in the Chronometric Age vocabulary (http://rs.tdwg.org/version/chrono/2020-MM-DD). The vocabulary uses the namespace abbreviation `chrono:`. Earlier term versions using the `zooarchnet:` namespace are deprecated and should no longer be used. These deprecated terms can be found at (http://rs.tdwg.org/chrono/doc/list/2020-09-14).
 
 For a simplified list that contains only the currently recommended terms, see the Chronometric Age Quick Reference Guide (https://chrono.tdwg.org/terms/).
 
