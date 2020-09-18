@@ -12,18 +12,24 @@
 
 **Part of TDWG Standard:** Not part of any standard
 
+**This version:** http://rs.tdwg.org/chrono/doc/list/2020-09-14
+
+**Latest version:** http://rs.tdwg.org/chrono/doc/list/
+
+**Replaced by:** http://rs.tdwg.org/chrono/doc/list/iso-date-here
+
 **Abstract:** The Chronometric Age vocabulary was designed for transmitting information about chronometric ages and the techniques used to determine them. This document lists all terms in the now antiquated zooarchnet: namespace and is for historical purposes.
 
 **Contributors:** John Wieczorek, Laura Brenskelle, Robert Guralnick, Kitty Emery, Michelle LeFebvre
 
 **Creator:** ZooArchNet
 
-**Bibliographic citation:** ZooArchNet. 2018. ZooArchNet Chronometric Age Vocabulary. <http://rs.tdwg.org/chrono/doc/list/iso-date-here>
+**Bibliographic citation:** ZooArchNet. 2018. ZooArchNet Chronometric Age Vocabulary. <http://rs.tdwg.org/chrono/doc/list/2020-09-14>
 
 
 ## 1 Introduction
 
-This document contains all versions of terms used in the history of the ZooArchNet version of the Chronometric Age Vocabulary. The vocabulary uses the namespace abbreviation `zooarchnet:`. All terms are deprecated and should no longer be used.
+This document contains all versions of terms used in the history of the ZooArchNet Chronometric Age Vocabulary. The vocabulary uses the namespace abbreviation `zooarchnet:`. All terms are deprecated and should no longer be used.
 
 For a list that contains only the currently recommended terms in the chrono: namespace, see http://rs.tdwg.org/chrono/doc/list/.
 
@@ -36,10 +42,9 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## 2 Use of Terms
 
-The terms in this document are meant to provide a record of definitions of terms leading up to the current Chronometric Age Vocabulary standard (http://www.tdwg.org/standards/x).
+The terms in this document are meant to provide a historical record of definitions of terms leading up to the current Chronometric Age Vocabulary standard (http://www.tdwg.org/standards/x).
 
 ## 3 Term index
-
 
 [Age Uncertainty](#zooarchnet_ageUncertainty) |
 [Age Uncertainty In Years](#zooarchnet_ageUncertaintyInYears) |
