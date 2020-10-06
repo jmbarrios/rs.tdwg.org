@@ -48,6 +48,8 @@ The terms in this standard are meant to provide stable definitions that can be u
 
 [Chronometric Age](#chrono_ChronometricAge) |
 [Chronometric Age Conversion Protocol](#chrono_chronometricAgeConversionProtocol) |
+[Chronometric Age Determined By](#chrono_chronometricAgeDeterminedBy) |
+[Chronometric Age Determined Date](#chrono_chronometricAgeDeterminedDate) |
 [Chronometric Age ID](#chrono_chronometricAgeID) |
 [Chronometric Age Protocol](#chrono_chronometricAgeProtocol) |
 [Chronometric Age References](#chrono_chronometricAgeReferences) |
@@ -136,6 +138,90 @@ The terms in this standard are meant to provide stable definitions that can be u
 		<tr>
 			<td>Examples</td>
 			<td>`INTCAL13`, `sequential 6 phase Bayesian model and IntCal13 calibration`</td>
+		</tr>
+		<tr>
+			<td>Type</td>
+			<td>Property</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2"><a id="chrono_chronometricAgeDeterminedBy"></a>Term Name  chrono:chronometricAgeDeterminedBy</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Term IRI</td>
+			<td><a href="http://rs.tdwg.org/chrono/terms/chronometricAgeDeterminedBy">http://rs.tdwg.org/chrono/terms/chronometricAgeDeterminedBy</a></td>
+		</tr>
+		<tr>
+			<td>Modified</td>
+			<td>2020-10-05</td>
+		</tr>
+		<tr>
+			<td>Term version IRI</td>
+			<td><a href="http://rs.tdwg.org/chrono/terms/version/chronometricAgeDeterminedBy-2020-10-05">http://rs.tdwg.org/chrono/terms/version/chronometricAgeDeterminedBy-2020-10-05</a></td>
+		</tr>
+		<tr>
+			<td>Label</td>
+			<td>Chronometric Age Determined By</td>
+		</tr>
+		<tr>
+			<td>Definition</td>
+			<td>A list (concatenated and separated) of names of people, groups, or organizations who determined the ChronometricAge.</td>
+		</tr>
+		<tr>
+			<td>Notes</td>
+			<td>Recommended best practice is to separate the values in a list with space vertical bar space ( | ).</td>
+		</tr>
+		<tr>
+			<td>Examples</td>
+			<td>`Michelle LeFebvre | Niell Wallis`</td>
+		</tr>
+		<tr>
+			<td>Type</td>
+			<td>Property</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2"><a id="chrono_chronometricAgeDeterminedDate"></a>Term Name  chrono:chronometricAgeDeterminedDate</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Term IRI</td>
+			<td><a href="http://rs.tdwg.org/chrono/terms/chronometricAgeDeterminedDate">http://rs.tdwg.org/chrono/terms/chronometricAgeDeterminedDate</a></td>
+		</tr>
+		<tr>
+			<td>Modified</td>
+			<td>2020-10-05</td>
+		</tr>
+		<tr>
+			<td>Term version IRI</td>
+			<td><a href="http://rs.tdwg.org/chrono/terms/version/chronometricAgeDeterminedDate-2020-10-05">http://rs.tdwg.org/chrono/terms/version/chronometricAgeDeterminedDate-2020-10-05</a></td>
+		</tr>
+		<tr>
+			<td>Label</td>
+			<td>Chronometric Age Determined Date</td>
+		</tr>
+		<tr>
+			<td>Definition</td>
+			<td>The date on which the ChronometricAge was determined.</td>
+		</tr>
+		<tr>
+			<td>Notes</td>
+			<td>Recommended best practice is to use a date that conforms to ISO 8601-1:2019.</td>
+		</tr>
+		<tr>
+			<td>Examples</td>
+			<td>`1963-03-08T14:07-0600` (8 Mar 1963 at 2:07pm in the time zone six hours earlier than UTC). `2009-02-20T08:40Z` (20 February 2009 8:40am UTC). `2018-08-29T15:19` (3:19pm local time on 29 August 2018). `1809-02-12` (some time during 12 February 1809). `1906-06` (some time in June 1906). `1971` (some time in the year 1971).</td>
 		</tr>
 		<tr>
 			<td>Type</td>
